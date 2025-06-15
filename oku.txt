@@ -1,0 +1,1 @@
+Git üzerinden ping atmayı denedik.
